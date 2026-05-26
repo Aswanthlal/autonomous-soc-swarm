@@ -61,7 +61,7 @@ The architecture is implemented as a LangGraph multi-agent workflow with Human-I
 
 ---
 
-## 5. Post-Mortem Reporter Agent
+## 5. Reporter Agent
 - Automatically generates a professional Markdown incident report.
 - Includes:
   - Executive summary
