@@ -1,0 +1,36 @@
+# Environments
+soc_env/
+venv/
+env/
+.venv/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Secrets and Configuration
+.env
+.env.*
+*.secret
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Generated Reports & Logs
+report.md
+incident_report.md
+*.log
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
