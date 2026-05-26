@@ -93,4 +93,4 @@ Incident Responder
    ↓
 Firewall Block + Blockchain Audit
    ↓
-Post-Mortem Report Generation
+Report Generation
